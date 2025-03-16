@@ -56,7 +56,7 @@ counter:
   categories:
     zero: 카테고리 없음
     one: 1개의 카테고리
-    other: "총 %d개의 카테고리가 있습니다."
+    other: "총 %d개의 카테고리"
 
   archive_posts:
     zero: 포스트 없음
