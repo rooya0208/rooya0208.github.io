@@ -60,7 +60,7 @@ counter:
 
   archive_posts:
     zero: 포스트 없음
-    one: 1개의 포스트
+    one: 1개의 포스트가 있습니다.
     other: "총 %d개의 포스트"
 
 state:
@@ -77,7 +77,7 @@ cheers:
   great: 훌륭해요
   excellent: 완벽해요
 
-keep_on: 가 있습니다.
+keep_on: 📄
 symbol:
   comma: ', '
   period: '. '
