@@ -5,6 +5,6 @@ categories:
 - 관리
 ---
 
-Hello world!
+# Hello world!
 
 첫 포스트입니다. 잘 부탁드려요.
